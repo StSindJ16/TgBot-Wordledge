@@ -5,7 +5,7 @@ import threading
 import time
 from pytz import timezone
 # Токен
-TOKEN = "7239417400:AAGKOwrDlaWrxB1SGsDP-NAuK33rN4J9M7I"
+TOKEN = "token"
 bot = telebot.TeleBot(TOKEN)
 
 # Данные пользователей
