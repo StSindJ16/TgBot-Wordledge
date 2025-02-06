@@ -8,7 +8,7 @@ from pytz import timezone
 
 
 # Токен
-TOKEN = "7241678368:AAEpI95n_4Dvd9i6xHt0x1ecf17ZKZucYsk"
+TOKEN = "token"
 bot = telebot.TeleBot(TOKEN)
 
 
