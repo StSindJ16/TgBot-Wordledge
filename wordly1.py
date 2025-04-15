@@ -18,7 +18,7 @@ alphabet_button = KeyboardButton('🔤 Алфавит')
 game_keyboard.add(help_button, alphabet_button)
 
 # Токен
-TOKEN = "7241678368:AAEpI95n_4Dvd9i6xHt0x1ecf17ZKZucYsk"
+TOKEN = ""
 bot = telebot.TeleBot(TOKEN)
 
 # Данные пользователей
